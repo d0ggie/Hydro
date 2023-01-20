@@ -1,0 +1,6 @@
+*.d
+*.o
+*.stackdump
+*.exe
+*.EXE*
+*.ROM*
